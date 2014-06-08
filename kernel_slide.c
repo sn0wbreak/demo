@@ -1,5 +1,5 @@
 /*  These are just offsets, thanks to iH8sn0w and winocm*/
-
+/* we steel */
 
 /*
  * Get Kernel Slide
