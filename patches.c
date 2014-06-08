@@ -9,6 +9,8 @@
 #include <mach/mach_types.h>
 #include <mach-o/loader.h>
 
+// WEEEEE I DON"T KNOW WHAT I"M DOING
+
 static inline void patch_with_range(const char *name, addr_t addr, prange_t pr) {
     uint32_t len = strlen(name);
     write(patchfd, &len, sizeof(len));
